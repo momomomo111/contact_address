@@ -1,6 +1,6 @@
 # contact_address
 
-A new Flutter project.
+東北Tech道場　盛岡道場　サンプルコード
 
 ## Getting Started
 
